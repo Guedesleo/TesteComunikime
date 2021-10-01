@@ -1,0 +1,76 @@
+#finalizar-compra {
+    width: 100%;
+    max-width: 1100px;
+  
+    margin: 0 auto;
+  }
+  
+  #finalizar-compra header {
+    margin-top: 48px;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  #finalizar-compra header a {
+    color: var(--title-color);
+    font-weight: bold;
+    text-decoration: none;
+  
+    display: flex;
+    align-items: center;
+  }
+  
+  #finalizar-compra header a svg {
+    margin-right: 16px;
+    color: var(--primary-color);
+  }
+
+  #finalizar-compra form {
+    margin: 25px auto;
+    padding: 64px;
+    max-width: 730px;
+    background: #FFF;
+    border-radius: 8px;
+  
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #finalizar-compra form h1 {
+    font-size: 36px;
+  }
+
+  #finalizar-compra form button {
+    width: 260px;
+    height: 56px;
+    background: var(--primary-color);
+    border-radius: 8px;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 16px;
+    border: 0;
+    align-self: flex-end;
+    margin-top: 40px;
+    transition: background-color 0.2s;
+    cursor: pointer;
+  }
+  
+  #finalizar-compra form button:hover {
+    background: #267794;
+  }
+
+  #inputBoder{
+    border: none;
+  }
+
+  #inputQuantidade{
+    width: 5%;
+  }
+
+  #icon{
+    position:relative;
+    top:3px
+  }
+  
