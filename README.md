@@ -16,10 +16,12 @@ $ cd Back-end
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação 
 $ npm run start
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
+
+#Utilização do banco Postgres
 
 ```
 
