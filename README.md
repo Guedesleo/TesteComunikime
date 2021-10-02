@@ -16,11 +16,7 @@ $ cd Back-end
 # Instale as dependências
 $ npm install
 
-#Utilização do banco Postgres - no database dentro da pasta está conexão com o banco coloca as 
-# os dados do seu banco postgres aqui . 
-<h1 align=center>
-<img src="../public/bancodados.PNG" />
-</h1>
+
 # Execute a aplicação 
 $ npm run start
 
@@ -29,6 +25,12 @@ $ npm run start
 
 
 ```
+
+#Utilização do banco Postgres - no database dentro da pasta está conexão com o banco coloca as 
+# os dados do seu banco postgres aqui . 
+<h1 align=center>
+<img src="../public/bancodados.PNG" />
+</h1>
 
 
 #### 🧭 Rodando a aplicação web (Frontend)
