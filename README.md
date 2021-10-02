@@ -28,7 +28,7 @@ $ npm run start
 
 #Utilização do banco Postgres - no database dentro da pasta está conexão com o banco coloca os dados do seu banco postgres aqui . 
 <h1 align=center>
-<img src="/bancodados.PNG" />
+ <img alt="Logo" title="#logo" width="700px" src=".github/bancodados.PNG">
 </h1>
 
 
